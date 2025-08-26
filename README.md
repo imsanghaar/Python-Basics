@@ -1,10 +1,13 @@
-                                                                        📘 Python Basics Practice
+                                                  📘 Python Basics Practice
 
 <img width="1536" height="1024" alt="Python Basics Practice Banner" src="https://github.com/user-attachments/assets/81d868bb-6823-46ed-b71a-03aff507e4a0" />
 
 
 
 This project demonstrates **Python fundamentals** including variables, data types, operators, conditions, and real-life examples. Each step explains **what the code does** and shows the **output** so beginners can easily follow along.  
+
+“Here is the link to the Colab file. You can review the code there and run it to see the actual output and behavior":
+https://colab.research.google.com/drive/137fwVdRFi4WhY4Ha5FjL8NQKUT8Ob7cn#scrollTo=WNYfSzYyMFQ2
 
 ---
 
