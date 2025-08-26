@@ -1,4 +1,4 @@
-# 📘 Python Basics Practice  
+![profile](https://github.com/user-attachments/assets/5d460921-031e-413e-898c-beb27a4aa2bc)# 📘 Python Basics Practice  
 
 This project demonstrates **Python fundamentals** including variables, data types, operators, conditions, and real-life examples. Each step explains **what the code does** and shows the **output** so beginners can easily follow along.  
 
@@ -260,4 +260,9 @@ This project covers:
 - **Q6** → Real-life problem solving (Notebook Example)  
 - **Q7** → User Input Example  
 
-✨ Great for **beginners** learning Python fundamentals 🎉  
+✨ Great for **beginners** learning Python fundamentals 🎉
+
+Made By:
+<img width="404" height="51" alt="image" src="https://github.com/user-attachments/assets/7424ca23-1fd8-4f74-90fb-254909f4a86c" />
+AI Engr | N8N | HTML, CSS developer
+
