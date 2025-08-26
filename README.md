@@ -1,6 +1,7 @@
-![profile](https://github.com/user-attachments/assets/5d460921-031e-413e-898c-beb27a4aa2bc)# 📘 Python Basics Practice 
+ 📘 Python Basics Practice 
 
-<img width="404" height="51" alt="image" src="https://github.com/user-attachments/assets/cc629f4a-c60f-4540-b408-64a4c269b641" />
+<img width="1536" height="1024" alt="Python Basics Practice Banner" src="https://github.com/user-attachments/assets/81d868bb-6823-46ed-b71a-03aff507e4a0" />
+
 
 
 This project demonstrates **Python fundamentals** including variables, data types, operators, conditions, and real-life examples. Each step explains **what the code does** and shows the **output** so beginners can easily follow along.  
