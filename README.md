@@ -1,4 +1,4 @@
- 📘 Python Basics Practice 
+                                                                        📘 Python Basics Practice
 
 <img width="1536" height="1024" alt="Python Basics Practice Banner" src="https://github.com/user-attachments/assets/81d868bb-6823-46ed-b71a-03aff507e4a0" />
 
@@ -266,5 +266,6 @@ This project covers:
 
 ✨ Great for **beginners** learning Python fundamentals 🎉
 
-Made By: Imam Sanghaar Chandio
+Made By Imam Sanghaar Chandio
 AI Engr | N8N | HTML, CSS developer
+PIAIC   | PIAIC | Harvard CS50
